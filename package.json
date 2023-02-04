@@ -1,0 +1,23 @@
+{
+  "name": "test-practice-jest",
+  "version": "1.0.0",
+  "description": "test with Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feliverse/test-practice-jest.git"
+  },
+  "keywords": [],
+  "author": "Felipe Haybar Valenzuela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Feliverse/test-practice-jest/issues"
+  },
+  "homepage": "https://github.com/Feliverse/test-practice-jest#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
